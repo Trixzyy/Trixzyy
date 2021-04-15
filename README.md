@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ace SelfBot BETA**
 
-- 🌱 I’m currently learning **Python and HTML**
+- 🌱 I’m learning **Python and HTML**
 
 - 🤝 I’m looking for help with **Ace Projects**
 
