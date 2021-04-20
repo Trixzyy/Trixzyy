@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trixzyy&label=Profile%20views&color=0e75b6&style=flat" alt="trixzyy" /> </p>
 
-- 🔭 I’m currently working on **Ace SelfBot BETA**
+- 🔭 I’m currently working on **Team Aces website (team-ace.ga)**
 
 - 🌱 I’m learning **Python and HTML**
 
