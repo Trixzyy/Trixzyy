@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Trixzy</h1>
 <h3 align="center">I develop discord bots and other projects.</h3>
 
+```js
+<Quick Introduction>
+Hi I'm Trixzy and I like coding discord bots and other things like websites ands applications you can use on your PC!
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trixzyy&label=Profile%20views&color=0e75b6&style=flat" alt="trixzyy" /> </p>
 
-- 🔭 I’m currently working on **Team Aces website (team-ace.ga)**
+- 🔭 I’m currently working on **Team Aces website (www.team-ace.ga)**
 
 - 🌱 I’m learning **Python and HTML**
 
