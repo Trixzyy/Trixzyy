@@ -6,7 +6,7 @@
 Hi I'm Trixzy and I like coding discord bots and other things like websites ands applications you can use on your PC!
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trixzyy&label=Profile%20views&color=0e75b6&style=flat" alt="trixzyy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=trixzyy&label=Profile%20views&color=0e75b6&style=flat" alt="trixzyy" /> </p>
 
 - 🔭 I’m currently working on **Team Aces website (www.team-ace.ga)**
 
