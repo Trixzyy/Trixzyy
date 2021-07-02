@@ -8,7 +8,7 @@ Hi I'm Trixzy and I like coding discord bots and other things like websites ands
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trixzyy&label=Profile%20views&color=0e75b6&style=flat" alt="trixzyy" /> </p>
 
-- 🔭 I’m currently working on **Team Aces website (www.team-ace.ga)**
+- 🔭 I’m currently working on **Team Aces website (https://www.team-ace.ga)**
 
 - 🌱 I’m learning **Python and HTML**
 
@@ -24,7 +24,6 @@ Hi I'm Trixzy and I like coding discord bots and other things like websites ands
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/trixzy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="trixzy" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/DSqWNz3sct" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/DSqWNz3sct" height="30" width="40" /></a>
 </p>
 
