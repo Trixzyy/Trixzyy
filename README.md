@@ -8,13 +8,13 @@ Hi I'm Trixzy and I like coding discord bots and other things like websites ands
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trixzyy&label=Profile%20views&color=0e75b6&style=flat" alt="trixzyy" /> </p>
 
-- 🔭 I’m currently working on **Team Aces website (https://www.team-ace.ga)**
+- 🔭 I’m currently working on **Team Halogens website (https://www.halogen.gq)**
 
-- 🌱 I’m learning **Python and HTML**
+- 🌱 I’m learning **CSS and HTML**
 
-- 🤝 I’m looking for help with **Ace Projects**
+- 🤝 I’m looking for help with **Halogen Bot**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](Github) or my Website (coming soon)
 
 - 💬 Ask me about **Anything**
 
