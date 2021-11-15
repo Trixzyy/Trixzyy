@@ -8,11 +8,11 @@ Hi I'm Trixzy and I like coding discord bots and other things like websites ands
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trixzyy&label=Profile%20views&color=0e75b6&style=flat" alt="trixzyy" /> </p>
 
-- 🔭 I’m currently working on **Team Halogens website (https://www.halogen.gq)**
+- 🔭 I’m currently working on **RickAI! (https://rick-ai.com)**
 
 - 🌱 I’m learning **CSS and HTML**
 
-- 🤝 I’m looking for help with **Halogen Bot**
+- 🤝 I’m looking for help with **RickBot**
 
 - 👨‍💻 All of my projects are available at [Github](Github) or my Website (coming soon)
 
@@ -24,7 +24,7 @@ Hi I'm Trixzy and I like coding discord bots and other things like websites ands
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/DSqWNz3sct" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/DSqWNz3sct" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/vPa2HcueMW" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/DSqWNz3sct" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
