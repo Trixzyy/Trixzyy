@@ -8,17 +8,17 @@ Hi I'm Trixzy and I like coding discord bots and other things like websites ands
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trixzyy&label=Profile%20views&color=0e75b6&style=flat" alt="trixzyy" /> </p>
 
-- 🔭 I’m currently working on **RickAI! (https://rick-ai.com)**
+- 🔭 I’m currently working on **Doxil and Doxil Share (https://doxil.dev)**
 
-- 🌱 I’m learning **CSS and HTML**
+- 🌱 I’m learning **React**
 
-- 🤝 I’m looking for help with **RickBot**
+- 🤝 I’m looking for help with **Doxil Share (Discord Integration)**
 
 - 👨‍💻 All of my projects are available at [Github](Github) or my Website (coming soon)
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **trixzy@team-ace.ga**
+- 📫 How to reach me **trixzy@doxil.dev**
 
 - ⚡ Fun fact **Frogs can hear both in the air and below water.**
 
