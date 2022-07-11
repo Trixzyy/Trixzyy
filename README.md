@@ -22,6 +22,9 @@ Hi I'm Trixzy and I like coding discord bots and other things like websites ands
 
 - ⚡ Fun fact **Frogs can hear both in the air and below water.**
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=trixzyy&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trixzyy&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/vPa2HcueMW" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/DSqWNz3sct" height="30" width="40" /></a>
