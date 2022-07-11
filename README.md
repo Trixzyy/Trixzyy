@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trixzy</h1>
+<h1 align="center">👋 Hi, I'm Trixzy</h1>
 <h3 align="center">I develop discord bots and other programs. </h3>
 
 ```js
