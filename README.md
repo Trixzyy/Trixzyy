@@ -45,7 +45,7 @@
     <img alt="Discord Link" title="Discord Link" target="_blank" src="https://custom-icon-badges.herokuapp.com/badge/-Doxil.Dev-6088d2?style=for-the-badge&logoColor=white&logo=website"/>
   </a>
    <a href="https://discord.gg/uGfvdZhjD8">
-    <img alt="Website" title="Website Link" target="_blank" src="https://custom-icon-badges.herokuapp.com/badge/-Doxil%20Website-2962FF?style=for-the-badge&logoColor=white&logo=discord-link"/>
+    <img alt="Website" title="Website Link" target="_blank" src="https://custom-icon-badges.herokuapp.com/badge/-Doxil%20Discord-2962FF?style=for-the-badge&logoColor=white&logo=discord-link"/>
   </a>
 </p>
 
