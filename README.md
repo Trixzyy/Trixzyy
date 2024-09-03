@@ -2,7 +2,7 @@
 
 ### Hey I'm Zac!
 
-Hey welcome to my profile, im into building web apps and checking out new tech. Always keen to learn and get involved in fun projects, lets make something awesome.
+Welcome to my profile, im into building web apps and checking out new tech. Always keen to learn and get involved in fun projects, lets make something awesome.
 
 [![](https://komarev.com/ghpvc/?username=Trixzyy&color=007bff&label=Profile+Views&style=for-the-badge)](https://github.com/orhun) 
 
