@@ -23,11 +23,25 @@ Welcome to my profile, im into building web apps and checking out new tech. Alwa
 
 ## GitHub Stats
 <!-- https://github.com/jstrieb/github-stats -->
-![](https://github.com/Trixzyy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Trixzyy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+<a href="https://github.com/jstrieb/github-stats">
+  <picture>
+    <source srcset="https://github.com/Trixzyy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github.com/Trixzyy/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <img src="https://github.com/Trixzyy/github-stats/blob/master/generated/overview.svg" alt="GitHub Stats Overview" />
+  </picture>
+  <picture>
+    <source srcset="https://github.com/Trixzyy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github.com/Trixzyy/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" media="(prefers-color-scheme: light)" />
+    <img src="https://github.com/Trixzyy/github-stats/blob/master/generated/languages.svg" alt="GitHub Stats Languages" />
+  </picture>
+</a>
+
+
+
+
 
 ## Connect with Me
-[![TIGERLAKE.XYZ](https://custom-icon-badges.herokuapp.com/badge/-tigerlake.xyz-6088d2?style=for-the-badge&logoColor=white&logo=website)](https://tigerlake.xyz)
+[![zac.ong](https://custom-icon-badges.herokuapp.com/badge/-zac.ong-6088d2?style=for-the-badge&logoColor=white&logo=website)](https://zac.ong)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/992171799536218142)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/trixzydev)
 
